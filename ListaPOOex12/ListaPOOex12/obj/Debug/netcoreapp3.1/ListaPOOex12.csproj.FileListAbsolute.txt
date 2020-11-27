@@ -1,0 +1,12 @@
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.AssemblyInfoInputs.cache
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.AssemblyInfo.cs
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.csproj.CoreCompileInputs.cache
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.exe
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.deps.json
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.runtimeconfig.json
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.runtimeconfig.dev.json
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.dll
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\bin\Debug\netcoreapp3.1\ListaPOOex12.pdb
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.dll
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.pdb
+C:\Users\Waldir\source\repos\ListaPOOex12\ListaPOOex12\obj\Debug\netcoreapp3.1\ListaPOOex12.genruntimeconfig.cache
